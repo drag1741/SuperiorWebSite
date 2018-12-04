@@ -4,9 +4,8 @@
 
 body {
   padding-top: 3rem;
-  padding-bottom: 0rem;
-  /*color: #5a5a5a;*/
-	color: #685C6F;
+  padding-bottom: 3rem;
+  color: #685C6F;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -41,7 +40,7 @@ body {
   height: 32rem;
 }
 /* Carousel base class */
-.btn-dark {
+.btn {
 	background-color: #36283D;
 }
 
