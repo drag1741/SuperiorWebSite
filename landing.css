@@ -8,6 +8,10 @@ body {
   color: #685C6F;
 }
 
+#textShadow{/*add a simple black shadow for readbility*/
+	text-shadow: 2px 2px black;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 .navbar{
